@@ -1,5 +1,5 @@
-### Hi there 👋
-### I'm Abhishek Bodapati
+<h1 align="center">Hi 👋, I'm Abhishek Bodapati</h1>
+<img src="https://camo.githubusercontent.com/a53cf6aa4f509b8899f2250072f500f09fd07493/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68617273686373706572" alt="TaniaMalhotra" data-canonical-src="https://komarev.com/ghpvc/?username=abhishek-bodapati" style="max-width:100%;">
 
 <!--
 **abhishek-bodapati/abhishek-bodapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
