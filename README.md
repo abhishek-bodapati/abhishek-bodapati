@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=abhishek-bodapati&layout=compact&theme=graywhite">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-bodapati&theme=graywhite&layout=compact">
 </p>
-<center>![](https://github-readme-stats.vercel.app/api?username=abhishek-bodapati&layout=compact&theme=graywhite)</center>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-bodapati&theme=graywhite&layout=compact)
