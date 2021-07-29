@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-bodapati&count_private=true)
 <p align="center">
-  ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-bodapati&count_private=true)
-
   <img src="https://github-readme-stats.vercel.app/api?username=abhishek-bodapati&layout=compact&theme=graywhite&show_icons=true&locale=en">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-bodapati&theme=graywhite&layout=compact">
