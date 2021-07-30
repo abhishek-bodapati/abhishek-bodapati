@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-abhishek-bodapati.vercel.app/api?username=abhishek-bodapati&layout=compact&theme=graywhite&show_icons=true&locale=en">
   <br>
   <img src="https://github-readme-stats-ashy-tau.vercel.app/api/top-langs/?username=abhishek-bodapati&theme=graywhite&layout=compact">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-bodapati">
 </p>
 
 
